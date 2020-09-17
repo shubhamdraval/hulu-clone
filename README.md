@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+:flags: [View project](https://hulu-clone-60a91.web.app/)
 
 ## Available Scripts
 
